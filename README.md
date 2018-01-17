@@ -1,3 +1,10 @@
-# San Francisco Fonts for Windows 10
-Tested on Windows 10, credit goes to `github.com/AppleDesignResources/SanFranciscoFont` for providing the source.
-If you have an issue, don't shy to open one. Don't forget to give a star.
+## San Francisco Fonts for Windows 10
+Tested on __Windows 10 Pro 64-bit__. 
+ 
+If you think it's useful, don't forget to share and puke the star.
+
+Open an issue if you have problem. 
+
+Source from [AppleDesignResources](https://github.com/AppleDesignResources/SanFranciscoFont).
+
+`./blaisck`
