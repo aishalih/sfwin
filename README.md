@@ -1,6 +1,5 @@
 ## San Francisco Fonts for Windows 10
 
----
 __San Francisco Pro__ for iOS, macOS, and tvOS
 
 __San Francisco Compact__ for watchOS 
