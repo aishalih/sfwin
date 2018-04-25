@@ -8,7 +8,7 @@ __San Francisco Compact__ for watchOS
 
 Install font first before open the `demo.html` file.
 
-Tested on _Windows 10 Pro 64-bit_ using __TrueType__ Font. 
+Tested on _Windows 10 Pro 64-bit_. 
  
 Open an issue if you have problem. 
 
