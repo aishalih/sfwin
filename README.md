@@ -4,7 +4,7 @@ __San Francisco Pro__ for iOS, macOS, and tvOS
 
 __San Francisco Compact__ for watchOS 
 
----
+--
 
 Install font first before open the `demo.html` file.
 
