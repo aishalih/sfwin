@@ -8,8 +8,6 @@ __San Francisco Mono__ for Terminal and Code Editor
 
 --
 
-Install font first before open the `demo.html` file.
-
 Tested on _Windows 10 Pro 64-bit_. 
  
 Open an issue if you have problem. 
